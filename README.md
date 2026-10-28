@@ -4,7 +4,7 @@ Informatics Engineering graduate focused on software development, AI and data-dr
 
 ## Featured projects
 
-- [Local RAG Assistant](https://github.com/TEU_UTILIZADOR/local-rag-assistant) — PDF and website Q&A using LangChain, FAISS, Ollama and Streamlit.
+- [Local RAG Assistant](https://github.com/luzia1/local-rag-assistant) — PDF and website Q&A using LangChain, FAISS, Ollama and Streamlit.
 
 ## Skills
 
